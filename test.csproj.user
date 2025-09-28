@@ -1,0 +1,30 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup />
+  <ItemGroup>
+    <Compile Update="About.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="DASH.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="DDD.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="HOME.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="Playlist.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="Signin.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="SONGS.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="SplashWindow.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+  </ItemGroup>
+</Project>
